@@ -32,3 +32,7 @@ This repository highlights a comprehensive suite of data visualization and busin
 | **Relational Plotting** | Using Scatter Plots to visualize the correlation between lifestyle factors (BMI) and longevity. |
 | **Trend Analysis** | Building Line Charts with dual-axis capabilities to track multi-decade health disparities. |
 | **Sector Granularity** | Utilizing **Treemaps** and Heatmaps to visualize sub-industry volume and distribution. |
+
+---
+
+**Tableau Public Profile:** [My Portfolio](https://public.tableau.com/app/profile/max.medland/vizzes)
