@@ -1,6 +1,6 @@
-# 📊 Tableau Business Intelligence & Data Visualization Capabilities
+# 📊 Tableau Business Intelligence & Data Visualisation Capabilities
 
-This repository highlights a comprehensive suite of data visualization and business intelligence skills developed through high-impact projects. My work focuses on transforming complex, multi-sector datasets—ranging from National Employment statistics to Global Health and Digital Media—into actionable, interactive executive dashboards.
+This repository highlights a comprehensive suite of data Visualisation and business intelligence skills developed through high-impact projects. My work focuses on transforming complex, multi-sector datasets—ranging from National Employment statistics to Global Health and Digital Media—into actionable, interactive executive dashboards.
 
 ---
 
@@ -13,7 +13,7 @@ This repository highlights a comprehensive suite of data visualization and busin
 
 ### **Interactive Analytics & User Experience (UX)**
 * **Global & Local Interactivity:** Implementing synchronized filters and slicers that update across entire dashboards to maintain data consistency.
-* **Advanced Filtering:** Utilizing **Top N Filters** to isolate high-performers, single-value dropdowns for granular selection, and continent-level parameters.
+* **Advanced Filtering:** Utilising **Top N Filters** to isolate high-performers, single-value dropdowns for granular selection, and continent-level parameters.
 * **Dynamic Slicing:** Enabling users to toggle between dimensions such as Gender, Region, and Time-series to uncover hidden correlations.
 
 ### **Data Engineering & Calculation Logic**
@@ -23,15 +23,15 @@ This repository highlights a comprehensive suite of data visualization and busin
 
 ---
 
-## 📈 Specialized Visualization Skills
+## 📈 Specialised Visualisation Skills
 
 | Capability | Application Example |
 | :--- | :--- |
 | **Geospatial Analysis** | Mapping regional growth patterns across the UK to identify economic hotspots. |
 | **Growth Benchmarking** | Comparing sector-specific performance against national averages to identify outliers. |
-| **Relational Plotting** | Using Scatter Plots to visualize the correlation between lifestyle factors (BMI) and longevity. |
+| **Relational Plotting** | Using Scatter Plots to visualise the correlation between lifestyle factors (BMI) and longevity. |
 | **Trend Analysis** | Building Line Charts with dual-axis capabilities to track multi-decade health disparities. |
-| **Sector Granularity** | Utilizing **Treemaps** and Heatmaps to visualize sub-industry volume and distribution. |
+| **Sector Granularity** | Utilising **Treemaps** and Heatmaps to visualise sub-industry volume and distribution. |
 
 ---
 
